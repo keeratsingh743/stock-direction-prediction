@@ -81,8 +81,8 @@ Overall, the results provide **no convincing evidence that the engineered techni
 Clone the repository and install the required Python packages.
 
 ```bash
-git clone <repository-url>
-cd <repository-name>
+git clone https://github.com/keeratsingh743/stock_direction_prediction.git
+cd stock_direction_prediction
 pip install -r requirements.txt
 ```
 
